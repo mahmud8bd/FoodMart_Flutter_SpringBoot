@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261697818321",
+    "project_id": "sfood-200fa",
+    "storage_bucket": "sfood-200fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261697818321:android:f533039c6f9f45919c7ff0",
+        "android_client_info": {
+          "package_name": "com.example.sazzadfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEK7bl05WR5Vd5LfwMzu67fIzbAN_l4Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
